@@ -1,0 +1,19 @@
+{
+    "name": "masoud/time",
+    "description": "this is my test packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "masoud",
+            "email": "netwons@gmail.com"
+        }
+    ],
+    "autoload": {
+
+        "psr-4": {
+
+            "Masoud\\Time\\":"src/"
+        }
+    },
+    "require": {}
+}
