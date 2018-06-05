@@ -29,3 +29,9 @@ STEP 3:
 php artisan vendor:publish
 ```
 
+STEP 4:
+
+```
+php artisan migrate
+```
+
