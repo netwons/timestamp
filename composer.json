@@ -1,10 +1,10 @@
 {
-    "name": "masoud/time",
+    "name": "netwons/time",
     "description": "this is my test packages",
     "license": "MIT",
     "authors": [
         {
-            "name": "masoud",
+            "name": "netwons",
             "email": "netwons@gmail.com"
         }
     ],
